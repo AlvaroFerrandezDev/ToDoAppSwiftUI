@@ -11,7 +11,7 @@ import SwiftUI
 struct ToDoAppSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
